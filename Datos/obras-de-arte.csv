@@ -1,0 +1,8 @@
+﻿campo;tipo de dato;descripcion
+linea;string;Línea del SUBTE
+estacion;string;Nombre de la estación del SUBTE
+artista;string;Nombre del artista que realizó la obra
+tecnica;string;Técnica utilizada en la obra
+periodo;string;Año en que se realizó la obra
+nombre_de_las_obras;string;Nombre de las obras de arte presentes en la estación
+observaciones;string;Observaciones adicionales sobre la obra o la estación
